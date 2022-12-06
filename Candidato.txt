@@ -1,0 +1,44 @@
+Candidato.0
+Thiago
+12345678911
+email@email.com
+m
+Superior Incompleto
+SP
+Rua UNIP
+Bairro Unip
+SÆo Paulo
+Capacidade de fazer muitas coisas
+Candidato.1
+Lucas
+1231312313
+lucas@email.com
+m
+Superior Incompleto
+Sp
+Rua
+Bairro
+Cidade
+Competencias
+Candidato.2
+Hugo
+3114515131231
+hugo@email.com
+m
+Superior Incompleto
+sp
+rua
+bairro
+cidade
+competencias
+Candidato.3
+Ronaldo
+1313213131
+ronaldo@email.com
+m
+Superior Incompleto
+sp
+ria
+de
+gett
+fefe
